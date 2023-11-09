@@ -1,2 +1,2 @@
-streamlit==1.27.0
+streamlit
 translate==3.6.1
